@@ -1,0 +1,30 @@
+{
+  "name": "leomcclung.com",
+  "version": "1.0.0",
+  "description": "My personal portfolio site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaishinn/leomcclung.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xaishinn/leomcclung.com/issues"
+  },
+  "homepage": "https://github.com/xaishinn/leomcclung.com#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "hbs": "^4.0.1",
+    "knex": "^0.14.3",
+    "method-override": "^2.3.10",
+    "nodemon": "^1.14.12",
+    "pg": "^7.4.1",
+    "postgresql": "0.0.1"
+  }
+}
